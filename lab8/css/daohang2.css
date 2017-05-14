@@ -1,0 +1,28 @@
+.title{
+	background-image: url(../image/bj.png);
+	background-repeat: no-repeat;
+	background-position: 0%0%;
+	height:400px;
+	width:300px;
+}
+
+.titl{
+	background-image: url(../image/header.png);
+	background-repeat: no-repeat;
+	height:150px;
+	width:200px;
+}
+#xinwen{
+	color:white;
+	background-image: url(../image/lvbiaoti.png);
+	background-repeat: no-repeat;
+	height:80px;
+	width:60px;
+
+}
+ul{
+	color:black;
+	font:18px '黑体';
+	list-style-type:none;
+}
+a{text-decoration:none;}

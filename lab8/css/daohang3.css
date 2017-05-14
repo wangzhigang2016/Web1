@@ -1,0 +1,27 @@
+ul{
+	text-align:center;
+	list-style-type:none;
+}
+a{
+	font:18px '黑体';
+	color:white;
+	text-decoration:none;
+}
+li{
+	float:left;
+	color:green;
+	display:inline;
+	padding:15px;
+}
+.menu
+{
+	background-image: url(../image/bg.gif);
+	background-repeat: no-repeat; 
+	background-position: 50% 0%;
+	height:100px;
+	width:100%;
+}
+.specil
+{
+	color:yellow;
+}
